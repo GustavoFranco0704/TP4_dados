@@ -1,0 +1,11 @@
+id_funcionario,nome,data_contratacao,id_cargo,id_departamento
+1,João Silva,2023-01-15,1,1
+2,Maria Santos,2022-03-10,2,2
+3,Carlos Oliveira,2021-05-25,3,3
+4,Ana Costa,2020-07-30,4,4
+5,Pedro Mendes,2019-09-20,5,5
+6,Lucas Souza,2023-02-10,1,2
+7,Paula Lima,2022-04-05,2,3
+8,Mariana Rocha,2021-06-15,3,1
+9,Ricardo Alves,2020-08-18,4,5
+10,Fernanda Ferreira,2019-10-22,5,4

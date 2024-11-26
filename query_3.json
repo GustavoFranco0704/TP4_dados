@@ -1,0 +1,14 @@
+[
+    {
+        "nome_departamento":"Marketing",
+        "custo_total_projetos":30000.0
+    },
+    {
+        "nome_departamento":"Tecnologia da Informação",
+        "custo_total_projetos":45000.0
+    },
+    {
+        "nome_departamento":"Vendas",
+        "custo_total_projetos":50000.0
+    }
+]

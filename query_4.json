@@ -1,0 +1,18 @@
+[
+    {
+        "id_projeto":2,
+        "nome_projeto":"Aplicativo Mobile",
+        "custo":75000.0,
+        "data_inicio":1677628800000,
+        "data_conclusao":1703980800000,
+        "id_funcionario":2
+    },
+    {
+        "id_projeto":5,
+        "nome_projeto":"Automação Industrial",
+        "custo":150000.0,
+        "data_inicio":1685577600000,
+        "data_conclusao":null,
+        "id_funcionario":5
+    }
+]

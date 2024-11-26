@@ -1,0 +1,7 @@
+id_projeto,nome_projeto,descricao,data_inicio,data_conclusao,id_funcionario,id_departamento,custo,status,cliente
+1,Sistema de Vendas,Desenvolvimento de um sistema de vendas online,2023-01-01,2023-06-30,1,5,50000,Concluído,Loja ABC
+2,Aplicativo Mobile,Criação de um aplicativo de monitoramento de saúde,2023-03-01,2023-12-31,2,2,75000,Em Execução,Hospital XYZ
+3,Sistema de RH,Implementação de sistema para gestão de recursos humanos,2023-05-01,,3,1,60000,Em Planejamento,Empresa RH Ltda
+4,Site Institucional,Desenvolvimento do site da empresa,2023-04-01,2023-10-01,4,3,30000,Concluído,Startup DEF
+5,Automação Industrial,Automação de processos em uma fábrica,2023-06-01,,5,4,150000,Em Execução,Fábrica GHI
+6,Consultoria de TI,Serviços de consultoria para melhoria de infraestrutura de TI,2023-02-01,2023-08-01,6,2,45000,Concluído,Empresa JKL

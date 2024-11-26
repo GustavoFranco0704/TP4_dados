@@ -1,0 +1,8 @@
+id_dependente,id_funcionario,nome,idade,relacionamento
+1,1,Joana Silva,15,Filha
+7,1,Maria Silva,10,Filha
+2,1,Julia Silva,20,Filha
+3,2,Paulo Santos,18,Filho
+4,5,Laura Santos,3,Filha
+5,3,Fernanda Oliveira,7,Filha
+6,3,Gustavo Oliveira,9,Filho

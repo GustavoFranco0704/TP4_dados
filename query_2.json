@@ -1,0 +1,20 @@
+[
+    {
+        "tipo":"Humano",
+        "descricao_recurso":"Análise de Requisitos",
+        "total_quantidade":2.0,
+        "total_recursos":1
+    },
+    {
+        "tipo":"Humano",
+        "descricao_recurso":"Consultor de Saúde",
+        "total_quantidade":1.0,
+        "total_recursos":1
+    },
+    {
+        "tipo":"Financeiro",
+        "descricao_recurso":"Servidor em Nuvem",
+        "total_quantidade":2.0,
+        "total_recursos":1
+    }
+]
