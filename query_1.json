@@ -1,0 +1,10 @@
+[
+    {
+        "departamento":"Financeiro",
+        "media_salario":4500.0
+    },
+    {
+        "departamento":"Recursos Humanos",
+        "media_salario":8500.0
+    }
+]

@@ -106,6 +106,10 @@ try:
     for departamento, media_salario in resultados:
         print(f"Departamento: {departamento}, Média Salarial: {media_salario}")
 
+    df = pd.read_sql(query, conexao)
+    resultado_json1 = df.to_json(
+        'query_1.json', orient="records", indent=4, force_ascii=False)
+
 except pymysql.MySQLError as e:
     print(f"Erro ao executar a consulta: {e}")
 
